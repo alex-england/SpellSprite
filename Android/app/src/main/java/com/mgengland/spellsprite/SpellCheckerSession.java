@@ -43,7 +43,7 @@ public class SpellCheckerSession extends SpellCheckerService.Session
         {
             TextInfo textInfo = textInfos[i];
             String text = textInfo.getText();
-            String sequence =
+            //String sequence = textInfo.Get
         }
 
 
