@@ -1,9 +1,11 @@
-package com.mgengland.spellsprite;
+package com.mgengland.spellsprite.Services;
 
 import android.service.textservice.SpellCheckerService;
 import android.view.textservice.SentenceSuggestionsInfo;
 import android.view.textservice.SuggestionsInfo;
 import android.view.textservice.TextInfo;
+
+import com.mgengland.spellsprite.Logic.GoogleSpellChecker;
 
 import static android.view.textservice.SuggestionsInfo.RESULT_ATTR_IN_THE_DICTIONARY;
 import static android.view.textservice.SuggestionsInfo.RESULT_ATTR_LOOKS_LIKE_TYPO;

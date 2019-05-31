@@ -1,4 +1,4 @@
-package com.mgengland.spellsprite;
+package com.mgengland.spellsprite.Services;
 import android.service.textservice.SpellCheckerService;
 
 public class SpellCheckerFactory extends SpellCheckerService

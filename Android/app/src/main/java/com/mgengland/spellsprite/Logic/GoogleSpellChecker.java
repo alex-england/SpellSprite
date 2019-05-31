@@ -1,4 +1,4 @@
-package com.mgengland.spellsprite;
+package com.mgengland.spellsprite.Logic;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
