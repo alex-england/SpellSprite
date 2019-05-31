@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Spell Sprite</string>
+    <string name="spellchecker_name">Spell Sprite</string>
+    <string name="subtype_generic">Engrish</string>
+</resources>
