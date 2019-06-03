@@ -53,7 +53,7 @@ public class GoogleSpellChecker
         catch (Exception e)
         {
             // todo yeah ... see above todo notes
-            System.out.println("hmmm");
+            System.out.println(e.getMessage());
         }
         return null;
     }
